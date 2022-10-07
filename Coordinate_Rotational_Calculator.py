@@ -48,3 +48,4 @@ def rotations(cor1, cor2):
     print('______________________________________________________')
 # rotations(90, -42)
 rotations(int(input('X Coordinate: ')), int(input('Y Coordinate: ')))
+input('Press ENTER to exit')
